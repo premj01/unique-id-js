@@ -21,12 +21,18 @@ npm install unique-id-js
 
 ```javascript
 const getId = require("unique-id-js");
-or;
-import getId from "unique-id-js";
+```
 
+Or
+
+```javascript
+import getId from "unique-id-js";
+```
+
+```javascript
 // Generate a unique ID
 const id = getId();
-console.log(id); // Example output: 1231234567890
+console.log(id); // Example output:2161242161240
 ```
 
 ### React Usage

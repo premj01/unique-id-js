@@ -23,7 +23,7 @@ npm install unique-id-js
 const getId = require("unique-id-js");
 ```
 
-Or
+### Or
 
 ```javascript
 import getId from "unique-id-js";

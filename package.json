@@ -12,5 +12,14 @@
     "id"
   ],
   "author": "Prem Jadhav",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/premj01/unique-id-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/premj01/unique-id-js/issues"
+  },
+  "homepage": "https://github.com/premj01/unique-id-js#readme"
 }

@@ -1,0 +1,16 @@
+{
+  "name": "unique-id-js",
+  "version": "1.0.0",
+  "description": "Unique Numeric Id generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "uuid",
+    "unique",
+    "id"
+  ],
+  "author": "Prem Jadhav",
+  "license": "ISC"
+}
